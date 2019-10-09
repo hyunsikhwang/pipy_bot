@@ -1,0 +1,9 @@
+{
+    "mlab":{
+        "MONGO_HOST":"ds241668.mlab.com",
+        "MONGO_PORT":41668,
+        "MONGO_DB":"hyunsikhwang",
+        "MONGO_USER":"realg",
+        "MONGO_PASS":"ofsm9dml"
+    }
+}
